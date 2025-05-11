@@ -1,0 +1,2 @@
+# -Quiz-App---Try-again-and-again-till-you-reach-it-
+The "TRY AGAIN AND AGAIN" quiz app is a console-based Java application designed to test the knowledge of users with a set of multiple-choice questions. This interactive application is user-friendly and provides a seamless way to engage users while learning. The app encourages users to retry the quiz ,making it both educational and entertaining!.
